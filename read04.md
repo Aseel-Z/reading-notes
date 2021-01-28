@@ -1,4 +1,4 @@
-# JavaScript 
+# JavaScript
 
 - JavaScript is a programming language that is used to make Websites interactive.
 - JavaScript accesses and modifies the content and markup used in a webpage; adding elements and attributes.
