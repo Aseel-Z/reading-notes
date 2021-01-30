@@ -1,4 +1,4 @@
-#CSS Functions
+# CSS Functions
 
 ## Linking
 - In order to link a specific part of another page to the current page, use the link tag and the href attribute, containing the address for the
