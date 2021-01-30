@@ -1,7 +1,7 @@
 #CSS Functions
 
 ## Linking
-- In order to link a specific part of another page to the current page, use the ***a*** tag and the href attribute, containing the address for the
+- In order to link a specific part of another page to the current page, use the link tag and the href attribute, containing the address for the
 page (absolute URL or relative URL), followed by the # symbol, followed by the value of the id attribute that is used on the element you are linking to. 
   *e.g href=" URL #bottom"*
 - ID attribute can be used to target elements within a page that can be linked to.
