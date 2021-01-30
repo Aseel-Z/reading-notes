@@ -11,5 +11,7 @@ Read02b           | [Git & Markdown](https://aseel-z.github.io/reading-notes/rea
 Read03            | [HTML](https://aseel-z.github.io/reading-notes/read03)!
 Read04            | [JavaScript - Introduction](https://aseel-z.github.io/reading-notes/read04)
 Read05            | [JavaScript - Operators & Loops](https://aseel-z.github.io/reading-notes/read05)
+Read06a           | [CSS - Functions](https://aseel-z.github.io/reading-notes/read06a)
+Read06b           | [Design web pages with CSS](https://aseel-z.github.io/reading-notes/read06a)
 
 &copy!  [Aseel](https://github.com/Aseel-Z)

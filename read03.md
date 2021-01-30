@@ -1,4 +1,4 @@
-# HTML Reading Summary
+# HTML
 
 **When designing a website three factors should be taken into consideration:**
 - Target Audience; this would determine the visitors needs
