@@ -14,11 +14,11 @@
 - Comments go inside this <!-- --> in HTML.
 - ID Attribute is used for the unique identification of an HTML element.
 - Class Attribute is used for the unique identification of a group of HTML elements.
--“<a>, <b>, <em>, <img>” are inline HTML elements.
-- <div> element is used for grouping elements in a box.
-- <span> is an inline element that used like <div>
- - <iframe> is an inline frame that is cut into the page
-- <meta> contains data about web pages
+- "a, b, em, img" are inline HTML elements.
+- "div" element is used for grouping elements in a box.
+- "span" is an inline element that used like "div"
+- "iframe" is an inline frame that is cut into the page
+- "meta" contains data about web pages
 - In order to add special characters to the web page, escape characters are used.
 
 

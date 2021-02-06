@@ -23,5 +23,17 @@ class-01          | [HTML & JS - An Introduction](https://aseel-z.github.io/read
 class-02          | [](https://aseel-z.github.io/reading-notes/class-02)
 class-03          | [](https://aseel-z.github.io/reading-notes/class-03)
 class-04          | [](https://aseel-z.github.io/reading-notes/class-04)
+class-05          | [](https://aseel-z.github.io/reading-notes/class-05)
+class-06          | [](https://aseel-z.github.io/reading-notes/class-06)
+class-07          | [](https://aseel-z.github.io/reading-notes/class-07)
+class-08          | [](https://aseel-z.github.io/reading-notes/class-08)
+class-09          | [](https://aseel-z.github.io/reading-notes/class-09)
+class-10          | [](https://aseel-z.github.io/reading-notes/class-10)
+class-11          | [](https://aseel-z.github.io/reading-notes/class-11)
+class-12          | [](https://aseel-z.github.io/reading-notes/class-12)
+class-13          | [](https://aseel-z.github.io/reading-notes/class-13)
+class-14          | [](https://aseel-z.github.io/reading-notes/class-14)
+class-15          | [](https://aseel-z.github.io/reading-notes/class-15)
 
-&copy!  [Aseel](https://github.com/Aseel-Z)
+
+&copy![Aseel](https://github.com/Aseel-Z)
