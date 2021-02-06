@@ -1,7 +1,7 @@
 # Hello! I'm Aseel, an Industrial Engineer in the process of becoming a Software Developer :)
 
 
-# My Reading Summaries
+# Code 102 Reading Notes
 
 Reading Material  | URL
 ------------------|--------------
@@ -13,5 +13,15 @@ Read04            | [JavaScript - Introduction](https://aseel-z.github.io/readin
 Read05            | [JavaScript - Operators & Loops](https://aseel-z.github.io/reading-notes/read05)
 Read06a           | [CSS - Functions](https://aseel-z.github.io/reading-notes/read06a)
 Read06b           | [Design web pages with CSS](https://aseel-z.github.io/reading-notes/read06b)
+
+# Code 201 Reading Notes
+
+Reading Material  | URL
+------------------|--------------
+Main              | [Main](https://aseel-z.github.io/reading-notes/)
+class-01          | [HTML & JS - An Introduction](https://aseel-z.github.io/reading-notes/class-01)
+class-02          | [](https://aseel-z.github.io/reading-notes/class-02)
+class-03          | [](https://aseel-z.github.io/reading-notes/class-03)
+class-04          | [](https://aseel-z.github.io/reading-notes/class-04)
 
 &copy!  [Aseel](https://github.com/Aseel-Z)
