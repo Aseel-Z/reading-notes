@@ -79,3 +79,20 @@ it is important to understand which will take precedence.
 
 # JAVASCRIPT - Decisions & Loops:
 
+- A JavaScript code makes decisions with the help of conditional statement.
+- If statements exceutes of code block by checking (evaluating) a condition.
+
+### We have 8 Comparison Opertators (reaturn single boolean value):
+- == : equal to by value
+- ===: strictly equal to by value and type
+- !== : not equal to by value
+- !===: not strictly equal to by value and type
+-  '>':greater than
+-  '>=':greater than or equal
+-  '<':less than
+-  '<=':less than or equal
+
+### Logical Opertators (allow the comparison of more than one comparison operators):
+- && : AND 
+- || : OR
+- ! : NOT
