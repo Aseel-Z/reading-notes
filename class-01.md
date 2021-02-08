@@ -11,7 +11,7 @@
 # HTML: Extra Markup
 
 - DOCTYPE is used at the beginning of the HTML Code to declare the HTML version used.
-- Comments go inside this <!-- --> in HTML.
+- Comments go inside this <!- - - -> in HTML.
 - ID Attribute is used for the unique identification of an HTML element.
 - Class Attribute is used for the unique identification of a group of HTML elements.
 - "a, b, em, img" are inline HTML elements.
