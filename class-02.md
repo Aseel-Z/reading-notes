@@ -94,5 +94,5 @@ it is important to understand which will take precedence.
 
 ### Logical Opertators (allow the comparison of more than one comparison operators):
 - && : AND 
-- || : OR
+- | | : OR
 - ! : NOT
