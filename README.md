@@ -21,7 +21,7 @@ Reading Material  | URL
 Main              | [Main](https://aseel-z.github.io/reading-notes/)
 class-01          | [HTML & JS - An Introduction](https://aseel-z.github.io/reading-notes/class-01)
 class-02          | [HTML- CSS - JavaScript](https://aseel-z.github.io/reading-notes/class-02)
-class-03          | [](https://aseel-z.github.io/reading-notes/class-03)
+class-03          | [Lists-Control Flow-Box Model](https://aseel-z.github.io/reading-notes/class-03)
 class-04          | [](https://aseel-z.github.io/reading-notes/class-04)
 class-05          | [](https://aseel-z.github.io/reading-notes/class-05)
 class-06          | [](https://aseel-z.github.io/reading-notes/class-06)
