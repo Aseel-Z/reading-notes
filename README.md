@@ -23,7 +23,7 @@ class-01          | [HTML & JS - An Introduction](https://aseel-z.github.io/read
 class-02          | [HTML- CSS - JavaScript](https://aseel-z.github.io/reading-notes/class-02)
 class-03          | [Lists-Control Flow-Box Model](https://aseel-z.github.io/reading-notes/class-03)
 class-04          | [Links-Functions-Layout](https://aseel-z.github.io/reading-notes/class-04)
-class-05          | [](https://aseel-z.github.io/reading-notes/class-05)
+class-05          | [Images, Colors & Text](https://aseel-z.github.io/reading-notes/class-05)
 class-06          | [](https://aseel-z.github.io/reading-notes/class-06)
 class-07          | [](https://aseel-z.github.io/reading-notes/class-07)
 class-08          | [](https://aseel-z.github.io/reading-notes/class-08)
