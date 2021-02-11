@@ -27,3 +27,23 @@
 - >CSS3 has introduced the ability to create image borders and rounded borders
 - >Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
 
+# JS Control Flow
+
+## ARRAYS
+- arrays are multi-value variable, where you can store "related' data, of same or different type.
+  - Syntax: *var* arrayName = [element1, element2, ...];
+- each element in an array has an index that refers to its postion in the array.
+- index numbering starts from 0.
+- _length_ property returns the number of items in an array.
+- in order to call an element in an array, use this *arrayName*[*index of the element*]
+
+## DECISIONS & LOOPS
+
+- **IF**/**IF ELSE** statements is used to enable the code to make decisions based on a condition. Such that when the condition returns a true value a certain block of code is executed, and when it returns a false value another block of code is executed.
+
+- **SWITCH** statement shows a series of possible cases/values for a certain variable, along with the blocks of code that should be executed for each case.
+
+- *Truthy Values* are treated as if they are true, and *Falsy Values* are treated as if they are false.
+
+- **Loops** (_For_/_While_/_Do While_) are used when we want to execute a certain block of code repeatedly; for more than one time.
+
