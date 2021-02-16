@@ -1,4 +1,4 @@
-# CSS Layouts
+# MORE CSS Layouts
 - CSS views each HTML element as 'boxes'.
 - 'Boxes' can either be on a block level (e.g. **h1**/**p**/**ul** ) or a in-line level (e.g. **img**/**b**/**i**). 
 - **Containing/Parent Elements** are the elements that are inclusive to ther elements.
