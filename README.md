@@ -26,7 +26,7 @@ class-04          | [Links-Functions-Layout](https://aseel-z.github.io/reading-n
 class-05          | [Images, Colors & Text](https://aseel-z.github.io/reading-notes/class-05)
 class-06          | [Problem Domain-Objects-DOM](https://aseel-z.github.io/reading-notes/class-06)
 class-07          | [Object-Oriented&Tables](https://aseel-z.github.io/reading-notes/class-07)
-class-08          | [](https://aseel-z.github.io/reading-notes/class-08)
+class-08          | [More CSS Layouts](https://aseel-z.github.io/reading-notes/class-08)
 class-09          | [](https://aseel-z.github.io/reading-notes/class-09)
 class-10          | [](https://aseel-z.github.io/reading-notes/class-10)
 class-11          | [](https://aseel-z.github.io/reading-notes/class-11)
