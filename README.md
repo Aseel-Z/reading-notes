@@ -31,7 +31,7 @@ class-09          | [Forms and JS Events](https://aseel-z.github.io/reading-note
 class-10          | [](https://aseel-z.github.io/reading-notes/class-10)
 class-11          | [Audio, Video, Images](https://aseel-z.github.io/reading-notes/class-11)
 class-12          | [Chart.js & Canvas](https://aseel-z.github.io/reading-notes/class-12)
-class-13          | [](https://aseel-z.github.io/reading-notes/class-13)
+class-13          | [Local Storage](https://aseel-z.github.io/reading-notes/class-13)
 class-14          | [](https://aseel-z.github.io/reading-notes/class-14)
 class-15          | [](https://aseel-z.github.io/reading-notes/class-15)
 
