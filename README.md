@@ -32,8 +32,8 @@ class-10          | [](https://aseel-z.github.io/reading-notes/class-10)
 class-11          | [Audio, Video, Images](https://aseel-z.github.io/reading-notes/class-11)
 class-12          | [Chart.js & Canvas](https://aseel-z.github.io/reading-notes/class-12)
 class-13          | [Local Storage](https://aseel-z.github.io/reading-notes/class-13)
-class-14          | [](https://aseel-z.github.io/reading-notes/class-14)
-class-15          | [](https://aseel-z.github.io/reading-notes/class-15)
+class-14a          | [](https://aseel-z.github.io/reading-notes/class-14a)
+class-14b         | [What Google Learned About Teams](https://aseel-z.github.io/reading-notes/class-14b)
 
 
 &copy![Aseel](https://github.com/Aseel-Z)
