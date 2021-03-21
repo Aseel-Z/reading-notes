@@ -35,5 +35,15 @@ class-13          | [Local Storage](https://aseel-z.github.io/reading-notes/clas
 class-14a          | [](https://aseel-z.github.io/reading-notes/class-14a)
 class-14b         | [What Google Learned About Teams](https://aseel-z.github.io/reading-notes/class-14b)
 
+# Code 301 Reading Notes
+
+Reading Material  | URL
+------------------|--------------
+Main              | [Main](https://aseel-z.github.io/reading-notes/)
+read-01           | [RESPONSIVE WEB DESIGN and FLOATS](https://aseel-z.github.io/reading-notes/read-01)
+
+
+
+
 
 &copy![Aseel](https://github.com/Aseel-Z)
