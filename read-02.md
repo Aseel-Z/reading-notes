@@ -16,5 +16,4 @@
 - using the script tag, add the source  (protocol relative URL)
 >  src=" //ajax .googl eapi s . com/ ajax/l i bs/ jquery / 1.10. 2/ jquery .min. js "
 > window .jQuery 11 document. write (' script src=" j s/j query- 1.10. 2 .j s 11><\jscri pt> ' )
-
 - place the script tag in the head, as no the affect the page loading speed.
