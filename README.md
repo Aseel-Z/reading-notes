@@ -43,7 +43,7 @@ Main              | [Main](https://aseel-z.github.io/reading-notes/)
 read-01           | [RESPONSIVE WEB DESIGN and FLOATS](https://aseel-z.github.io/reading-notes/read-01)
 read-02           | [jQuery, Events, and The DOM](https://aseel-z.github.io/reading-notes/read-02)
 read-03           | [Flexbox and Templating](https://aseel-z.github.io/reading-notes/read-03)
-
+read-04           | [CSS Grid](https://aseel-z.github.io/reading-notes/read-04)
 
 
 
