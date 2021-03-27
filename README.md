@@ -45,6 +45,7 @@ read-02           | [jQuery, Events, and The DOM](https://aseel-z.github.io/read
 read-03           | [Flexbox and Templating](https://aseel-z.github.io/reading-notes/read-03)
 read-04           | [CSS Grid](https://aseel-z.github.io/reading-notes/read-04)
 read-05           | [Heroku Deployment](https://aseel-z.github.io/reading-notes/read-05)
+read-06           | [Node, Express, and APIs](https://aseel-z.github.io/reading-notes/read-06)
 
 
 
