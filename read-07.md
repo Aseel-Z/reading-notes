@@ -17,3 +17,5 @@
 - redirect is basically computers taliking to each other.
 - Ruby on Rails is a "RESTful web framework".
 - so basically we tell the web framework, in what form we want the data, and it does all of the communication.
+
+### Building the right teams to work on projects is important, using project management and agile tools can be very helpful too.
