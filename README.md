@@ -49,5 +49,9 @@ read-06           | [Node, Express, and APIs](https://aseel-z.github.io/reading-
 read-07           | [APIs continued](https://aseel-z.github.io/reading-notes/read-07)
 read-08           | [SQL](https://aseel-z.github.io/reading-notes/read-08)
 read-09           | [Refactoring](https://aseel-z.github.io/reading-notes/read-09)
+read-10           | [Refactoring](https://aseel-z.github.io/reading-notes/read-10)
+
+
+
 
 &copy![Aseel](https://github.com/Aseel-Z)
