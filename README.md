@@ -51,7 +51,7 @@ read-08           | [SQL](https://aseel-z.github.io/reading-notes/read-08)
 read-09           | [Refactoring](https://aseel-z.github.io/reading-notes/read-09)
 read-10           | [Call Stack](https://aseel-z.github.io/reading-notes/read-10)
 read-11           | [EJS](https://aseel-z.github.io/reading-notes/read-11)
-
+read-12           | [Components](https://aseel-z.github.io/reading-notes/read-12)
 
 
 &copy![Aseel](https://github.com/Aseel-Z)
