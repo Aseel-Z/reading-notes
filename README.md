@@ -52,6 +52,9 @@ read-09           | [Refactoring](https://aseel-z.github.io/reading-notes/read-0
 read-10           | [Call Stack](https://aseel-z.github.io/reading-notes/read-10)
 read-11           | [EJS](https://aseel-z.github.io/reading-notes/read-11)
 read-12           | [Components](https://aseel-z.github.io/reading-notes/read-12)
+read-13           | [SENDING FORM DATA](https://aseel-z.github.io/reading-notes/read-13)
+
+
 
 
 &copy![Aseel](https://github.com/Aseel-Z)
