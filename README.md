@@ -54,7 +54,7 @@ read-11           | [EJS](https://aseel-z.github.io/reading-notes/read-11)
 read-12           | [Components](https://aseel-z.github.io/reading-notes/read-12)
 read-13           | [SENDING FORM DATA](https://aseel-z.github.io/reading-notes/read-13)
 read-14a          | [DB NORMALIZATION](https://aseel-z.github.io/reading-notes/read-14a)
-
+read-15          | [DB NORMALIZATION](https://aseel-z.github.io/reading-notes/read-15)
 
 
 &copy![Aseel](https://github.com/Aseel-Z)
