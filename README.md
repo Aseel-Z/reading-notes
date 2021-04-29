@@ -1,7 +1,7 @@
 # Hello! I'm Aseel, an Industrial Engineer in the process of becoming a Software Developer :)
 
 
-# Code 102 Reading Notes
+# Code 102 - Intro to Software Development 
 
 Reading Material  | URL
 ------------------|--------------
@@ -14,7 +14,7 @@ Read05            | [JavaScript - Operators & Loops](https://aseel-z.github.io/r
 Read06a           | [CSS - Functions](https://aseel-z.github.io/reading-notes/read06a)
 Read06b           | [Design web pages with CSS](https://aseel-z.github.io/reading-notes/read06b)
 
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 Reading Material  | URL
 ------------------|--------------
@@ -35,7 +35,7 @@ class-13          | [Local Storage](https://aseel-z.github.io/reading-notes/clas
 class-14a          | [](https://aseel-z.github.io/reading-notes/class-14a)
 class-14b         | [What Google Learned About Teams](https://aseel-z.github.io/reading-notes/class-14b)
 
-# Code 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 Reading Material  | URL
 ------------------|--------------
@@ -56,5 +56,13 @@ read-13           | [SENDING FORM DATA](https://aseel-z.github.io/reading-notes/
 read-14a          | [DB NORMALIZATION](https://aseel-z.github.io/reading-notes/read-14a)
 read-15          | [Diversity and Inclusion](https://aseel-z.github.io/reading-notes/read-15)
 
+# Code 401 - Advanced Software Development
 
-&copy![Aseel](https://github.com/Aseel-Z)
+Reading Material  | URL
+------------------|--------------
+Main              | [Main](https://aseel-z.github.io/reading-notes/)
+read-401-01       | [Class 01](https://aseel-z.github.io/reading-notes/read-401-01)
+
+                  
+
+&copy;[Aseel](https://github.com/Aseel-Z)
