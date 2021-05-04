@@ -63,6 +63,7 @@ Reading Material  | URL
 Main              | [Main](https://aseel-z.github.io/reading-notes/)
 Class 01          | [Class 01](https://aseel-z.github.io/reading-notes/read-401-01)
 Class 02          | [Class 02](https://aseel-z.github.io/reading-notes/read-401-02)
+Class 03          | [Class 03](https://aseel-z.github.io/reading-notes/read-401-03)
 
                   
 
