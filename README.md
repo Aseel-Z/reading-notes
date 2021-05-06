@@ -65,6 +65,7 @@ Class 01          | [Class 01](https://aseel-z.github.io/reading-notes/read-401-
 Class 02          | [Class 02](https://aseel-z.github.io/reading-notes/read-401-02)
 Class 03          | [Class 03](https://aseel-z.github.io/reading-notes/read-401-03)
 Class 04          | [Class 04](https://aseel-z.github.io/reading-notes/read-401-04)
+Class 05          | [Class 04](https://aseel-z.github.io/reading-notes/read-401-05)
 
 
                   
