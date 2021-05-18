@@ -67,8 +67,8 @@ Class 03          | [Class 03](https://aseel-z.github.io/reading-notes/read-401-
 Class 04          | [Class 04](https://aseel-z.github.io/reading-notes/read-401-04)
 Class 05          | [Class 05](https://aseel-z.github.io/reading-notes/read-401-05)
 Class 06          | [Class 06](https://aseel-z.github.io/reading-notes/read-401-06)
-Class 07          | [Class 06](https://aseel-z.github.io/reading-notes/read-401-07)
-
+Class 07          | [Class 07](https://aseel-z.github.io/reading-notes/read-401-07)
+Class 08          | [Class 08](https://aseel-z.github.io/reading-notes/read-401-08)
 
 
                   
