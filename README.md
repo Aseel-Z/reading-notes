@@ -70,7 +70,7 @@ Class 06          | [Class 06](https://aseel-z.github.io/reading-notes/read-401-
 Class 07          | [Class 07](https://aseel-z.github.io/reading-notes/read-401-07)
 Class 08          | [Class 08](https://aseel-z.github.io/reading-notes/read-401-08)
 Class 09          | [Class 09](https://aseel-z.github.io/reading-notes/read-401-09)
-
+Class 10          | [Class 10](https://aseel-z.github.io/reading-notes/read-401-10)
                   
 
 &copy;[Aseel](https://github.com/Aseel-Z)
