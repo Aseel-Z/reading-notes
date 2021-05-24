@@ -72,7 +72,7 @@ Class 08          | [Class 08](https://aseel-z.github.io/reading-notes/read-401-
 Class 09          | [Class 09](https://aseel-z.github.io/reading-notes/read-401-09)
 Class 10          | [Class 10](https://aseel-z.github.io/reading-notes/read-401-10)
 Class 11          | [Class 11](https://aseel-z.github.io/reading-notes/read-401-11)                
-
+Class 12          | [Class 12](https://aseel-z.github.io/reading-notes/read-401-12) 
 
 
 &copy;[Aseel](https://github.com/Aseel-Z)
