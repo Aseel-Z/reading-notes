@@ -74,6 +74,8 @@ Class 10          | [Class 10](https://aseel-z.github.io/reading-notes/read-401-
 Class 11          | [Class 11](https://aseel-z.github.io/reading-notes/read-401-11)                
 Class 12          | [Class 12](https://aseel-z.github.io/reading-notes/read-401-12) 
 Class 13          | [Class 13](https://aseel-z.github.io/reading-notes/read-401-13) 
+Class 14          | [Class 14](https://aseel-z.github.io/reading-notes/read-401-14)
+
 
 
 &copy;[Aseel](https://github.com/Aseel-Z)
