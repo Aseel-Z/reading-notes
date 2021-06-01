@@ -78,6 +78,7 @@ Class 14          | [Class 14](https://aseel-z.github.io/reading-notes/read-401-
 Class 15          | [Class 15](https://aseel-z.github.io/reading-notes/read-401-15)
 Class 16          | [Class 16](https://aseel-z.github.io/reading-notes/read-401-16)
 Class 17          | [Class 17](https://aseel-z.github.io/reading-notes/read-401-17)
+Class 18          | [Class 18](https://aseel-z.github.io/reading-notes/read-401-18)
 
 
 
