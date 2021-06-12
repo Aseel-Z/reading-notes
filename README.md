@@ -80,6 +80,10 @@ Class 16          | [Class 16](https://aseel-z.github.io/reading-notes/read-401-
 Class 17          | [Class 17](https://aseel-z.github.io/reading-notes/read-401-17)
 Class 18          | [Class 18](https://aseel-z.github.io/reading-notes/read-401-18)
 Class 19          | [Class 19](https://aseel-z.github.io/reading-notes/read-401-19)
+Class 20          | [Class 20](https://aseel-z.github.io/reading-notes/read-401-20)
+
+
+
 
 
 &copy;[Aseel](https://github.com/Aseel-Z)
