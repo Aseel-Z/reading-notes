@@ -82,7 +82,7 @@ Class 18          | [Class 18](https://aseel-z.github.io/reading-notes/read-401-
 Class 19          | [Class 19](https://aseel-z.github.io/reading-notes/read-401-19)
 Class 20          | [Class 20](https://aseel-z.github.io/reading-notes/read-401-20)
 Class 21          | [Class 21](https://aseel-z.github.io/reading-notes/read-401-21)
-
+Class 22          | [Class 22](https://aseel-z.github.io/reading-notes/read-401-22)
 
 
 
