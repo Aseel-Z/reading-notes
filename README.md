@@ -84,6 +84,7 @@ Class 20          | [Class 20](https://aseel-z.github.io/reading-notes/read-401-
 Class 21          | [Class 21](https://aseel-z.github.io/reading-notes/read-401-21)
 Class 22          | [Class 22](https://aseel-z.github.io/reading-notes/read-401-22)
 Class 23          | [Class 23](https://aseel-z.github.io/reading-notes/read-401-23)
+Class 24          | [Class 24](https://aseel-z.github.io/reading-notes/read-401-24)
 
 
 &copy;[Aseel](https://github.com/Aseel-Z)
