@@ -91,7 +91,7 @@ Class 37          | [Class 37](https://aseel-z.github.io/reading-notes/read-401-
 Class 38          | [Class 38](https://aseel-z.github.io/reading-notes/read-401-38)
 Class 39          | [Class 39](https://aseel-z.github.io/reading-notes/read-401-39)
 Class 40          | [Class 40](https://aseel-z.github.io/reading-notes/read-401-40)
-
+Class 41          | [Class 41](https://aseel-z.github.io/reading-notes/read-401-41)
 
 
 
