@@ -92,7 +92,7 @@ Class 38          | [Class 38](https://aseel-z.github.io/reading-notes/read-401-
 Class 39          | [Class 39](https://aseel-z.github.io/reading-notes/read-401-39)
 Class 40          | [Class 40](https://aseel-z.github.io/reading-notes/read-401-40)
 Class 41          | [Class 41](https://aseel-z.github.io/reading-notes/read-401-41)
-
+Class 42          | [Class 42](https://aseel-z.github.io/reading-notes/read-401-42)
 
 
 &copy;[Aseel](https://github.com/Aseel-Z)
